@@ -1,0 +1,15 @@
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\bin\Debug\net6.0\Capitulo1Ejercicio1.exe
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\bin\Debug\net6.0\Capitulo1Ejercicio1.deps.json
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\bin\Debug\net6.0\Capitulo1Ejercicio1.runtimeconfig.json
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\bin\Debug\net6.0\Capitulo1Ejercicio1.dll
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\bin\Debug\net6.0\Capitulo1Ejercicio1.pdb
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.AssemblyInfo.cs
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.dll
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\refint\Capitulo1Ejercicio1.dll
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.pdb
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\Capitulo1Ejercicio1.genruntimeconfig.cache
+C:\Users\orteg\OneDrive\Imágenes\Escritorio\aplicada1\EjercicioCap1,2y3\Capitulo1Ejercicio1\Capitulo1Ejercicio1\obj\Debug\net6.0\ref\Capitulo1Ejercicio1.dll
